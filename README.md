@@ -58,3 +58,21 @@ To apply the migrations to the database:
 ```sh
 alembic upgrade head
 ```
+
+### Check Running
+To check app is running:
+```sh
+Visit on: http://127.0.0.1:8000
+```
+
+### Check Documentation
+To check documentation of the project:
+```sh
+Visit on: http://127.0.0.1:8000/redoc
+```
+
+### Swagger UI
+To check swagger UI or test apis:
+```sh
+Visit on: http://127.0.0.1:8000/docs
+```
